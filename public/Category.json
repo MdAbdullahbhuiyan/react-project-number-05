@@ -1,0 +1,12 @@
+[
+  { "id": 1, "name": "Clothes", "items": 320, "image": "src/assets/image/c-1.png" },
+  { "id": 2, "name": "Camera", "items": 65, "image": "src/assets/image/c-2.jpg" },
+  { "id": 3, "name": "Shoes", "items": 548, "image": "src/assets/image/c-3 (1).jpg" },
+  { "id": 4, "name": "Glasses", "items": 48, "image": "src/assets/image/c-4.png" },
+  { "id": 5, "name": "Cosmetics", "items": 59, "image": "src/assets/image/c-5  (2).jpg" },
+  { "id": 6, "name": "Watch", "items": 120, "image": "src/assets/image/c-6 (3).jpg" },
+  { "id": 7, "name": "Perfume", "items": 90, "image": "src/assets/image/c-7(4).jpg" },
+  { "id": 8, "name": "Electronics", "items": 77, "image": "src/assets/image/c-8 (5).jpg" },
+  { "id": 9, "name": "Bag", "items": 110, "image": "src/assets/image/c-9 (6).jpg" },
+  { "id": 10, "name": "Laptop", "items": 140, "image": "src/assets/image/c-10 (7).jpg" }
+]
