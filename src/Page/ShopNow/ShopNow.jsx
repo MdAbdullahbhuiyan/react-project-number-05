@@ -48,7 +48,7 @@ const ShopNow = () => {
                         </div>
                 </div>
                 <div className='col-span-9'>
-                    <div className='grid grid-cols-4 gap-6'>
+                    <div className='grid grid-cols-5 gap-6'>
                         {
                             filterid.map(product =>
                                 <div className=''><ProductCard product={product}></ProductCard></div>
